@@ -57,6 +57,7 @@ docs/_build/
 target/
 
 #Ipython
+.ipynb_checkpoints
 .ipynb_checkpoints/
 # Created by .ignore support plugin (hsz.mobi)
 ### OSX template
